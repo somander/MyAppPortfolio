@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btnSpotifyTxt">Spotify Streamer</string>
+    <string name="btnScoreTxt">Score App</string>
+    <string name="btnLibraryTxt">Library App</string>
+    <string name="btnBuildTxt">Build It Bigger</string>
+    <string name="btnReaderTxt">XYZ Reader</string>
+    <string name="btnMyAppTxt">Cornerstone: My Own App</string>
+
+</resources>
