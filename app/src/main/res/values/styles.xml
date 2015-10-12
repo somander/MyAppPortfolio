@@ -5,4 +5,22 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="TealButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@color/material_deep_teal_200</item>
+        <item name="android:width">@dimen/button_width</item>
+    </style>
+
+    <style name="GreyBottonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">@color/material_grey_100</item>
+        <item name="android:width">@dimen/button_width</item>
+    </style>
+
 </resources>
